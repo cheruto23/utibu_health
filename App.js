@@ -3,7 +3,7 @@ import { StyleSheet, Text, View } from 'react-native';
 import { ClerkProvider,SignedIn,SignedOut } from '@clerk/clerk-expo';
 import Login from './App/Screens/Login';
 // import SignInWithOAuth from './App/Components/SignInWithOAuth';
-import Home from './App/Screens/Home';
+// import Home from './App/Screens/Home';
 import { NavigationContainer } from '@react-navigation/native';
 import TabNavigation from './App/Navigations/TabNavigation';
 
